@@ -33,7 +33,7 @@
 <a href="mailto:masihjb@yahoo.com"><img alt="Email"
 src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a> <a href="https://linkedin.com/in/masihjb"><img alt="LinkedIn"
 src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"></a> <a href="https://masihjb.com"><img alt="Website"
-src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=Google-Chrome&logoColor=white"></a> <a href="https://t.me/christ_jb" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white"></a>
+src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=Google-Chrome&logoColor=white"></a> <a href="https://t.me/masihjb" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white"></a>
 
 </p>
 </details>
